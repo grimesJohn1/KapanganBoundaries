@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Border1.kml",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bokloan", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ 120.668034425606706, 16.64632087403346, 0.0 ], [ 120.644818689200605, 16.62691475914983, 0.0 ], [ 120.632887457279097, 16.616502118989651, 0.0 ], [ 120.616877731100999, 16.609217077491049, 0.0 ], [ 120.639601630799106, 16.60495945130322, 0.0 ] ] } }
+]
+}
